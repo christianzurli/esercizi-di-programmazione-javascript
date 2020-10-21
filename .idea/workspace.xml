@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eac0b28c-83ec-4c5f-8927-575c04754a22" name="Default Changelist" comment="">
+    <list default="true" id="eac0b28c-83ec-4c5f-8927-575c04754a22" name="Default Changelist" comment="Verifica">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/esercizi-stringhe-numeri/conta-il-tempo.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-stringhe-numeri/conta-il-tempo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi-stringhe-numeri/quanti-anni-ha.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-stringhe-numeri/quanti-anni-ha.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,18 +25,34 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.quanti-anni-ha.js">
     <configuration name="conta-il-tempo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/conta-il-tempo.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
+      <method v="2" />
+    </configuration>
+    <configuration name="gatti-in-fila.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/gatti-in-fila.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
+      <method v="2" />
+    </configuration>
+    <configuration name="quanti-anni-ha.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/quanti-anni-ha.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.quanti-anni-ha.js" />
+        <item itemvalue="Node.js.gatti-in-fila.js" />
         <item itemvalue="Node.js.conta-il-tempo.js" />
       </list>
     </recent_temporary>
@@ -45,11 +65,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603286072456</updated>
-      <workItem from="1603286073660" duration="291000" />
+      <workItem from="1603286073660" duration="4578000" />
     </task>
+    <task id="LOCAL-00001" summary="change">
+      <created>1603286544206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603286544206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="coimmit">
+      <created>1603286597362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603286597362</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Verifica">
+      <created>1603288108847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603288108847</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Verifica">
+      <created>1603288300020</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603288300020</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Verifica">
+      <created>1603289849820</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603289849820</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change" />
+    <MESSAGE value="coimmit" />
+    <MESSAGE value="Verifica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Verifica" />
   </component>
 </project>

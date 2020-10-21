@@ -15,7 +15,7 @@
 
 const totsec = 12560
 var ore = parseInt(totsec / 3600)
-var min = parseInt(((totsec % 3600))/60)
-var sec = parseInt(((totsec % 3600))%60)
+var min = parseInt(((totsec % 3600)) / 60)
+var sec = parseInt(((totsec % 3600)) % 60)
 console.log(ore + ' ore, '+ min + ' minuti e ' + sec +' secondi.')
 
