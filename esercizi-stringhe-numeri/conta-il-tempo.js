@@ -13,8 +13,9 @@
   http://www.imparareaprogrammare.it
 */
 
-var m = 60
-var s = 60
-var h = m * s
+const totsec = 12560
+var ore = parseInt(totsec / 3600)
+var min = parseInt(((totsec % 3600))/60)
+var sec = parseInt(((totsec % 3600))%60)
+console.log(ore + ' ore, '+ min+ ' minuti e ' +sec+' secondi.')
 
-console.log(h+' secondi in un\'ora');
