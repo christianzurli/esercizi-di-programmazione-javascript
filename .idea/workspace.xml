@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eac0b28c-83ec-4c5f-8927-575c04754a22" name="Default Changelist" comment="Verifica">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi-stringhe-numeri/conta-il-tempo.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-stringhe-numeri/conta-il-tempo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi-stringhe-numeri/quanti-anni-ha.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-stringhe-numeri/quanti-anni-ha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi-stringhe-numeri/somma-e-media.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-stringhe-numeri/somma-e-media.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +35,7 @@
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.quanti-anni-ha.js">
+  <component name="RunManager" selected="Node.js.somma-e-media.js">
     <configuration name="conta-il-tempo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/conta-il-tempo.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
       <method v="2" />
     </configuration>
@@ -49,8 +45,12 @@
     <configuration name="quanti-anni-ha.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/quanti-anni-ha.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
       <method v="2" />
     </configuration>
+    <configuration name="somma-e-media.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/somma-e-media.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.somma-e-media.js" />
         <item itemvalue="Node.js.quanti-anni-ha.js" />
         <item itemvalue="Node.js.gatti-in-fila.js" />
         <item itemvalue="Node.js.conta-il-tempo.js" />
@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603286072456</updated>
-      <workItem from="1603286073660" duration="4578000" />
+      <workItem from="1603286073660" duration="4897000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1603286544206</created>
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603289849820</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Verifica">
+      <created>1603291484035</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603291484035</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

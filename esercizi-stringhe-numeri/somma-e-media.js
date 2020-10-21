@@ -15,5 +15,6 @@ var d = 4
 var e = 5
 
 var somma = a + b + c + d + e
+var media = somma / 5
 
-console.log('somma = '+ somma)
+console.log('somma = '+ somma + ', media = '+ media)
