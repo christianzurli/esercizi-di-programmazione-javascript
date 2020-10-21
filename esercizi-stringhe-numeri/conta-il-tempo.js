@@ -12,3 +12,9 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var m = 60
+var s = 60
+var h = m * s
+
+console.log(h+' secondi in un\'ora');
