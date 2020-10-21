@@ -14,8 +14,10 @@
 */
 var arr = []
 var i = 0
-for (i < 0; i <= 50; i++) {
+while (i < 100) {
+    i++
+    var random = Math.floor((Math.random() * (50-1)) + 1)
+    arr.push(random)
 }
 
-
-console.log(arr)
+console.log(arr,' elementi: ' + arr.length)

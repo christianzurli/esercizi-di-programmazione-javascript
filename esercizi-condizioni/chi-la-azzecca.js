@@ -19,3 +19,8 @@
 
   http://www.imparareaprogrammare.it
 */
+let player1 = 5
+let player2 = 10
+let randNum = Math.floor((Math.random() * (100-1) + 1))
+
+console.log(randNum)
