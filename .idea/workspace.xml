@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eac0b28c-83ec-4c5f-8927-575c04754a22" name="Default Changelist" comment="Verifica">
-      <change beforePath="$PROJECT_DIR$/.idea/esercizi-di-programmazione-javascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/esercizi-di-programmazione-javascript.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi-cicli/ti-ricordi-le-tabelline.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-cicli/ti-ricordi-le-tabelline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi-cicli/rincorri-la-decina.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-cicli/rincorri-la-decina.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi-cicli/rombo-che-stampa.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-cicli/rombo-che-stampa.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -37,17 +34,18 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.ti-ricordi-le-tabelline.js">
-    <configuration name="azzecca-e-azzera.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-array/azzecca-e-azzera.js" working-dir="$PROJECT_DIR$/esercizi-array">
-      <method v="2" />
-    </configuration>
-    <configuration name="gatti-in-fila.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/gatti-in-fila.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.rincorri-la-decina.js">
     <configuration name="quanti-anni-ha.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/quanti-anni-ha.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
+      <method v="2" />
+    </configuration>
+    <configuration name="rincorri-la-decina.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-cicli/rincorri-la-decina.js" working-dir="$PROJECT_DIR$/esercizi-cicli">
+      <method v="2" />
+    </configuration>
+    <configuration name="rombo-che-stampa.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-cicli/rombo-che-stampa.js" working-dir="$PROJECT_DIR$/esercizi-cicli">
       <method v="2" />
     </configuration>
     <configuration name="somma-e-media.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/somma-e-media.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
@@ -58,11 +56,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.rincorri-la-decina.js" />
+        <item itemvalue="Node.js.rombo-che-stampa.js" />
         <item itemvalue="Node.js.ti-ricordi-le-tabelline.js" />
         <item itemvalue="Node.js.somma-e-media.js" />
         <item itemvalue="Node.js.quanti-anni-ha.js" />
-        <item itemvalue="Node.js.gatti-in-fila.js" />
-        <item itemvalue="Node.js.azzecca-e-azzera.js" />
       </list>
     </recent_temporary>
   </component>
@@ -76,7 +74,7 @@
       <updated>1603286072456</updated>
       <workItem from="1603286073660" duration="8084000" />
       <workItem from="1603546601937" duration="335000" />
-      <workItem from="1603546970302" duration="612000" />
+      <workItem from="1603546970302" duration="6943000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1603286544206</created>
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603293724674</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Verifica">
+      <created>1603547628703</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603547628703</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
