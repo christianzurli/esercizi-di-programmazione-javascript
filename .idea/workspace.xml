@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eac0b28c-83ec-4c5f-8927-575c04754a22" name="Default Changelist" comment="Verifica">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi-cicli/rincorri-la-decina.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-cicli/rincorri-la-decina.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi-cicli/rombo-che-stampa.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-cicli/rombo-che-stampa.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
       <updated>1603286072456</updated>
       <workItem from="1603286073660" duration="8084000" />
       <workItem from="1603546601937" duration="335000" />
-      <workItem from="1603546970302" duration="6943000" />
+      <workItem from="1603546970302" duration="7305000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1603286544206</created>
@@ -146,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603547628703</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Verifica">
+      <created>1603554274281</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603554274281</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
