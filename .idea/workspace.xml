@@ -33,10 +33,10 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.rincorri-la-decina.js">
+  <component name="RunManager" selected="Node.js.quanti-anni-ha.js">
     <configuration name="quanti-anni-ha.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/quanti-anni-ha.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
       <method v="2" />
     </configuration>
@@ -54,11 +54,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.quanti-anni-ha.js" />
+        <item itemvalue="Node.js.ti-ricordi-le-tabelline.js" />
         <item itemvalue="Node.js.rincorri-la-decina.js" />
         <item itemvalue="Node.js.rombo-che-stampa.js" />
-        <item itemvalue="Node.js.ti-ricordi-le-tabelline.js" />
         <item itemvalue="Node.js.somma-e-media.js" />
-        <item itemvalue="Node.js.quanti-anni-ha.js" />
       </list>
     </recent_temporary>
   </component>
@@ -73,6 +73,8 @@
       <workItem from="1603286073660" duration="8084000" />
       <workItem from="1603546601937" duration="335000" />
       <workItem from="1603546970302" duration="7305000" />
+      <workItem from="1603737855770" duration="254000" />
+      <workItem from="1603995557968" duration="402000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1603286544206</created>
@@ -151,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603554274281</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Verifica">
+      <created>1603738059979</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603738059979</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Verifica">
+      <created>1603738091221</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603738091221</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
