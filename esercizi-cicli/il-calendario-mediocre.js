@@ -50,7 +50,7 @@ var mese_28 = ['Febbraio']
 var mese_31 = ['Gennaio','Marzo', 'Maggio', 'Luglio', 'Agosto', 'Ottobre', 'Dicembre']
 var settimana = ['Lunedi', 'Martedi', 'Mercoledi', 'Giovedi', 'Venerdi', 'Sabato', 'Domenica']
 var input = 'Gennaio'
-var day = 2
+var day = 5
 
 var days;
 if (mese_28.indexOf(input) != -1)
@@ -60,7 +60,7 @@ else if (mese_30.indexOf(input) != -1)
 else if (mese_31.indexOf(input) != -1)
     days = 31
 else
-    console.log('Non Valid Input')
+    console.log('Not Valid Input')
 
 var i;
 var giorno
