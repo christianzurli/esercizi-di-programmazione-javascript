@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eac0b28c-83ec-4c5f-8927-575c04754a22" name="Default Changelist" comment="Verifica">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi-cicli/il-calendario-mediocre.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-cicli/il-calendario-mediocre.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,10 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.quanti-anni-ha.js">
+  <component name="RunManager" selected="Node.js.il-calendario-mediocre.js">
+    <configuration name="il-calendario-mediocre.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-cicli/il-calendario-mediocre.js" working-dir="$PROJECT_DIR$/esercizi-cicli">
+      <method v="2" />
+    </configuration>
     <configuration name="quanti-anni-ha.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/quanti-anni-ha.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
       <method v="2" />
     </configuration>
@@ -46,19 +50,16 @@
     <configuration name="rombo-che-stampa.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-cicli/rombo-che-stampa.js" working-dir="$PROJECT_DIR$/esercizi-cicli">
       <method v="2" />
     </configuration>
-    <configuration name="somma-e-media.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/somma-e-media.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
-      <method v="2" />
-    </configuration>
     <configuration name="ti-ricordi-le-tabelline.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-cicli/ti-ricordi-le-tabelline.js" working-dir="$PROJECT_DIR$/esercizi-cicli">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.il-calendario-mediocre.js" />
+        <item itemvalue="Node.js.rincorri-la-decina.js" />
         <item itemvalue="Node.js.quanti-anni-ha.js" />
         <item itemvalue="Node.js.ti-ricordi-le-tabelline.js" />
-        <item itemvalue="Node.js.rincorri-la-decina.js" />
         <item itemvalue="Node.js.rombo-che-stampa.js" />
-        <item itemvalue="Node.js.somma-e-media.js" />
       </list>
     </recent_temporary>
   </component>
@@ -74,7 +75,7 @@
       <workItem from="1603546601937" duration="335000" />
       <workItem from="1603546970302" duration="7305000" />
       <workItem from="1603737855770" duration="254000" />
-      <workItem from="1603995557968" duration="402000" />
+      <workItem from="1603995557968" duration="3580000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1603286544206</created>
@@ -167,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603738091221</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Verifica">
+      <created>1603995970164</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603995970164</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

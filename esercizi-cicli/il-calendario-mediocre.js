@@ -45,3 +45,30 @@
 
   http://www.imparareaprogrammare.it
 */
+var mese_30 = ['Aprile', 'Giugno', 'Settembre', 'Novembre']
+var mese_28 = ['Febbraio']
+var mese_31 = ['Gennaio','Marzo', 'Maggio', 'Luglio', 'Agosto', 'Ottobre', 'Dicembre']
+var settimana = ['Lunedi', 'Martedi', 'Mercoledi', 'Giovedi', 'Venerdi', 'Sabato', 'Domenica']
+var input = 'Gennaio'
+var day = 2
+
+var days;
+if (mese_28.indexOf(input) != -1)
+    days = 28
+else if (mese_30.indexOf(input) != -1)
+    days = 30
+else if (mese_31.indexOf(input) != -1)
+    days = 31
+else
+    console.log('Non Valid Input')
+
+var i;
+var giorno
+for (i = 1; i <= days; i++) {
+
+    var pos = (day+i-1)
+    var pos2 = pos % settimana.length
+
+    giorno = settimana[pos2]
+    console.log(giorno + " " + i);
+}
