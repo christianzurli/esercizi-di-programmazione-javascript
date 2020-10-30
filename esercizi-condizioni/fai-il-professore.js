@@ -18,3 +18,17 @@
 
   http://www.imparareaprogrammare.it
 */
+
+let v = 29
+let voto = ''
+if (v < 18) {
+    voto = 'Insufficiente'
+} else if (v < 21 && v <=18 ) {
+    voto = 'Sufficiente'
+}
+else {
+    voto = 'Voto inserito non valido'
+}
+
+console.log(voto)
+

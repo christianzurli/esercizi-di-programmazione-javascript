@@ -15,3 +15,12 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var numInt = 64
+
+if (numInt % 2 == 1) {
+    console.log(1)
+} else {
+    console.log(0)
+}
+

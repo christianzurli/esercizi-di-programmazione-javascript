@@ -21,6 +21,14 @@
 */
 let player1 = 5
 let player2 = 10
-let randNum = Math.floor((Math.random() * (100-1) + 1))
+let randNum = Math.floor(Math.random() * (100-1) + 1)
+
+if (randNum == player1) {
+    console.log('Giocatore 1 ha azzeccato')
+}
+
+if (randNum == player2) {
+    console.log('Giocatore 2 ha azzeccato')
+}
 
 console.log(randNum)

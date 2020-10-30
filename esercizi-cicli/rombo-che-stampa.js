@@ -16,6 +16,27 @@
   
   http://www.imparareaprogrammare.it
 */
+
+var n = 5
+var stringa = ''
+var spazi
+var ics = 1
+for (i = 1; i <= n; i++) {
+
+    spazi = (n-ics)
+    lettere = (n-spazi)
+    spazi = (spazi/2)
+    stringa += " ".repeat(spazi) + "X".repeat(lettere) + " ".repeat(spazi) +"\n"
+
+    if (i < n/2) {
+        ics += 2
+    } else {
+        ics -= 2
+    };
+
+}
+console.log(i);
+
 var num = 9
 var numIcs = 1
 for (riga = 0; riga < num; riga++) {

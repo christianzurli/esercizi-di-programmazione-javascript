@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eac0b28c-83ec-4c5f-8927-575c04754a22" name="Default Changelist" comment="Verifica">
-      <change beforePath="$PROJECT_DIR$/esercizi-cicli/il-calendario-mediocre.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-cicli/il-calendario-mediocre.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esercizi-stringhe-numeri/easy-lessons/numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esercizi-stringhe-numeri/easy-lessons/strings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi-cicli/rombo-che-stampa.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-cicli/rombo-che-stampa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi-condizioni/chi-la-azzecca.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-condizioni/chi-la-azzecca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi-condizioni/fai-il-professore.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-condizioni/fai-il-professore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi-condizioni/pari-o-dispari.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-condizioni/pari-o-dispari.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +20,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1jBmtO8MBWOmxUuIvtpCbQNFC1Y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,40 +34,41 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/esercizi-cicli" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.il-calendario-mediocre.js">
-    <configuration name="il-calendario-mediocre.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-cicli/il-calendario-mediocre.js" working-dir="$PROJECT_DIR$/esercizi-cicli">
+  <component name="RunManager" selected="Node.js.pari-o-dispari.js">
+    <configuration name="azzecca-e-azzera.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-array/azzecca-e-azzera.js" working-dir="$PROJECT_DIR$/esercizi-array">
+      <method v="2" />
+    </configuration>
+    <configuration name="chi-la-azzecca.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-condizioni/chi-la-azzecca.js" working-dir="$PROJECT_DIR$/esercizi-condizioni">
+      <method v="2" />
+    </configuration>
+    <configuration name="pari-o-dispari.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-condizioni/pari-o-dispari.js" working-dir="$PROJECT_DIR$/esercizi-condizioni">
       <method v="2" />
     </configuration>
     <configuration name="quanti-anni-ha.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/quanti-anni-ha.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
       <method v="2" />
     </configuration>
-    <configuration name="rincorri-la-decina.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-cicli/rincorri-la-decina.js" working-dir="$PROJECT_DIR$/esercizi-cicli">
-      <method v="2" />
-    </configuration>
-    <configuration name="rombo-che-stampa.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-cicli/rombo-che-stampa.js" working-dir="$PROJECT_DIR$/esercizi-cicli">
-      <method v="2" />
-    </configuration>
-    <configuration name="ti-ricordi-le-tabelline.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-cicli/ti-ricordi-le-tabelline.js" working-dir="$PROJECT_DIR$/esercizi-cicli">
+    <configuration name="somma-e-media.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/somma-e-media.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.il-calendario-mediocre.js" />
-        <item itemvalue="Node.js.rincorri-la-decina.js" />
+        <item itemvalue="Node.js.pari-o-dispari.js" />
+        <item itemvalue="Node.js.azzecca-e-azzera.js" />
+        <item itemvalue="Node.js.chi-la-azzecca.js" />
+        <item itemvalue="Node.js.somma-e-media.js" />
         <item itemvalue="Node.js.quanti-anni-ha.js" />
-        <item itemvalue="Node.js.ti-ricordi-le-tabelline.js" />
-        <item itemvalue="Node.js.rombo-che-stampa.js" />
       </list>
     </recent_temporary>
   </component>
@@ -71,10 +81,6 @@
       <option name="presentableId" value="Default" />
       <updated>1603286072456</updated>
       <workItem from="1603286073660" duration="8084000" />
-      <workItem from="1603546601937" duration="335000" />
-      <workItem from="1603546970302" duration="7305000" />
-      <workItem from="1603737855770" duration="254000" />
-      <workItem from="1603995557968" duration="4175000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1603286544206</created>
@@ -139,69 +145,16 @@
       <option name="project" value="LOCAL" />
       <updated>1603293724674</updated>
     </task>
-    <task id="LOCAL-00010" summary="Verifica">
-      <created>1603547628703</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1603547628703</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Verifica">
-      <created>1603554274281</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1603554274281</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Verifica">
-      <created>1603738059979</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1603738059979</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Verifica">
-      <created>1603738091221</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1603738091221</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Verifica">
-      <created>1603995970164</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1603995970164</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Verifica">
-      <created>1603999175517</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1603999175517</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change" />
     <MESSAGE value="coimmit" />
+    <MESSAGE value="init" />
     <MESSAGE value="Verifica" />
     <option name="LAST_COMMIT_MESSAGE" value="Verifica" />
   </component>
