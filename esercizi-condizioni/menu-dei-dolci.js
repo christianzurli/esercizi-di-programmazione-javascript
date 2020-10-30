@@ -21,3 +21,4 @@
 
   http://www.imparareaprogrammare.it
 */
+var input = 4

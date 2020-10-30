@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eac0b28c-83ec-4c5f-8927-575c04754a22" name="Default Changelist" comment="Verifica">
-      <change afterPath="$PROJECT_DIR$/esercizi-stringhe-numeri/easy-lessons/numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizi-stringhe-numeri/easy-lessons/strings.js" afterDir="false" />
+    <list default="true" id="eac0b28c-83ec-4c5f-8927-575c04754a22" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi-cicli/rombo-che-stampa.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-cicli/rombo-che-stampa.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi-condizioni/chi-la-azzecca.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-condizioni/chi-la-azzecca.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi-condizioni/fai-il-professore.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-condizioni/fai-il-professore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi-condizioni/pari-o-dispari.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-condizioni/pari-o-dispari.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi-condizioni/maggiore-e-minore.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-condizioni/maggiore-e-minore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi-condizioni/menu-dei-dolci.js" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi-condizioni/menu-dei-dolci.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +42,17 @@
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.pari-o-dispari.js">
+  <component name="RunManager" selected="Node.js.maggiore-e-minore.js">
     <configuration name="azzecca-e-azzera.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-array/azzecca-e-azzera.js" working-dir="$PROJECT_DIR$/esercizi-array">
       <method v="2" />
     </configuration>
     <configuration name="chi-la-azzecca.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-condizioni/chi-la-azzecca.js" working-dir="$PROJECT_DIR$/esercizi-condizioni">
       <method v="2" />
     </configuration>
-    <configuration name="pari-o-dispari.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-condizioni/pari-o-dispari.js" working-dir="$PROJECT_DIR$/esercizi-condizioni">
+    <configuration name="maggiore-e-minore.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-condizioni/maggiore-e-minore.js" working-dir="$PROJECT_DIR$/esercizi-condizioni">
       <method v="2" />
     </configuration>
-    <configuration name="quanti-anni-ha.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/quanti-anni-ha.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
+    <configuration name="pari-o-dispari.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-condizioni/pari-o-dispari.js" working-dir="$PROJECT_DIR$/esercizi-condizioni">
       <method v="2" />
     </configuration>
     <configuration name="somma-e-media.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/esercizi-stringhe-numeri/somma-e-media.js" working-dir="$PROJECT_DIR$/esercizi-stringhe-numeri">
@@ -64,11 +60,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.maggiore-e-minore.js" />
         <item itemvalue="Node.js.pari-o-dispari.js" />
         <item itemvalue="Node.js.azzecca-e-azzera.js" />
         <item itemvalue="Node.js.chi-la-azzecca.js" />
         <item itemvalue="Node.js.somma-e-media.js" />
-        <item itemvalue="Node.js.quanti-anni-ha.js" />
       </list>
     </recent_temporary>
   </component>
@@ -81,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603286072456</updated>
       <workItem from="1603286073660" duration="8084000" />
+      <workItem from="1604058963327" duration="840000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1603286544206</created>
@@ -145,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603293724674</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Verifica">
+      <created>1604054036792</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604054036792</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
